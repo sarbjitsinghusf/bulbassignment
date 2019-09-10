@@ -1,3 +1,0 @@
-// Learning Git
-// Learning GitHub
-// Another change
